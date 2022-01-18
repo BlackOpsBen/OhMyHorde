@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Recolor_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 7a7baa71c1987435e8006d71b14f4914, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Color_0cefd9e06cb14282987d39bc503ba795: {r: 0, g: 1, b: 1, a: 0}
+    - Color_1acd66e60382480aa76adb40185ddcdb: {r: 1, g: 1, b: 1, a: 0}
+    - Color_8f3d8d0a3f674a119fd3804393633bf3: {r: 1, g: 0, b: 1, a: 0}
+    - Color_9cac054074d04243a2570683e8ae2572: {r: 0.990566, g: 0.62144, b: 0.62144, a: 0}
+    - Color_a3080f87649341f381a8cc2c78c7ab73: {r: 1, g: 1, b: 0, a: 0}
+    - Color_b977e2342cd74f1ab3c0690c6c6af16c: {r: 0, g: 0, b: 0, a: 0}
+    - Color_c38c9a1047d440dd88f38faffc1a2e50: {r: 1, g: 0.6273585, b: 0.6273585, a: 0}
+    - _ClothesAFrom: {r: 0, g: 1, b: 0, a: 1}
+    - _ClothesATo: {r: 0.7490196, g: 0.6313726, b: 1, a: 1}
+    - _ClothesBFrom: {r: 0, g: 0, b: 1, a: 1}
+    - _ClothesBTo: {r: 0.972549, g: 0.972549, b: 0.972549, a: 1}
+    - _ClothesCFrom: {r: 1, g: 0, b: 0, a: 1}
+    - _ClothesCTo: {r: 0.45205382, g: 0.24172305, b: 0.5283019, a: 1}
+    - _HighlightFrom: {r: 0, g: 1, b: 1, a: 1}
+    - _HighlightTo: {r: 1, g: 1, b: 1, a: 1}
+    - _MainFrom: {r: 1, g: 0, b: 1, a: 1}
+    - _MainTo: {r: 0.9647059, g: 0.68235296, b: 0.49803922, a: 1}
+    - _ShadowFrom: {r: 1, g: 1, b: 0, a: 1}
+    - _ShadowTo: {r: 0.7490196, g: 0.47058824, b: 0.28235295, a: 1}
+  m_BuildTextureStacks: []
