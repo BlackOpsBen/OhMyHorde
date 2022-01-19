@@ -50,10 +50,12 @@ Material:
     - _ClothesBTo: {r: 0.972549, g: 0.972549, b: 0.972549, a: 1}
     - _ClothesCFrom: {r: 1, g: 0, b: 0, a: 1}
     - _ClothesCTo: {r: 0.45205382, g: 0.24172305, b: 0.5283019, a: 1}
+    - _From: {r: 1, g: 0, b: 1, a: 0}
     - _HighlightFrom: {r: 0, g: 1, b: 1, a: 1}
     - _HighlightTo: {r: 1, g: 1, b: 1, a: 1}
     - _MainFrom: {r: 1, g: 0, b: 1, a: 1}
     - _MainTo: {r: 0.9647059, g: 0.68235296, b: 0.49803922, a: 1}
     - _ShadowFrom: {r: 1, g: 1, b: 0, a: 1}
     - _ShadowTo: {r: 0.7490196, g: 0.47058824, b: 0.28235295, a: 1}
+    - _To: {r: 0.5188679, g: 0.31916034, b: 0.2667764, a: 0}
   m_BuildTextureStacks: []
